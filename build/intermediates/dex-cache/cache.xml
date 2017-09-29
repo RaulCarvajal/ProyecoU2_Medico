@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/raulrcg/AndroidStudioProjects/ProyecoU2_Medico/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="64eb59e7b1d454348860ac3ff96bbe35d894d0ec">
+        <dex dex="/home/raulrcg/AndroidStudioProjects/ProyecoU2_Medico/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c4e5348f7bd786770437e39673f0bacdbe38b8d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/raulrcg/AndroidStudioProjects/ProyecoU2_Medico/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/raulrcg/AndroidStudioProjects/ProyecoU2_Medico/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_50cf613d3e04aa92f3c9f22e8e52978496133e5c/classes.dex" />
+    </item>
+
+</items>
